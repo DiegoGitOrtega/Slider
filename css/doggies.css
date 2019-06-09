@@ -1,0 +1,46 @@
+body{background-image:url(../img/fondo1.jpg);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+opacity: 1;
+background-attachment: fixed;
+margin: 1px;
+}
+
+form{margin-left: 45%;
+margin-top:30%;
+}
+
+input[type="radio"] {
+transform: scale(2.5);
+}
+
+#dogimg{margin-left: 25%;
+margin-top: -2%;
+width: 920px;
+position: absolute;
+z-index: -1;
+}
+
+h2{ margin-left: 43%;
+color: black;
+font-size: 300%;
+}
+
+#flecha{position: absolute;
+z-index: 1;
+margin-left: 75%;
+margin-top: 11%;
+opacity: 0.8;
+}
+
+#flecha2{position: absolute;
+z-index: 2;
+margin-left: 6%;
+margin-top: 11%;
+opacity: 0.8;
+}
+	
+	
+	
+	
+	
