@@ -9,7 +9,7 @@ perrito=0;
 }
 }
 
-setInterval(switchDoggie , 2000);
+setInterval(switchDoggie , 2500);
 
 function gio() {
 flecha.addEventListener("click",switchDoggie);
